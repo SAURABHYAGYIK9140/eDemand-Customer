@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "400303379697",
+    "project_id": "movies4u-1c126",
+    "storage_bucket": "movies4u-1c126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400303379697:android:5c6f008a64bc20520f0550",
+        "android_client_info": {
+          "package_name": "com.happiro.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400303379697-7tutmmn8ed1vc9jh2768sks86c2ilqu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happiro.customer",
+            "certificate_hash": "78bcc263dcad9c0982bbdf3bc27cb1035876d7ef"
+          }
+        },
+        {
+          "client_id": "400303379697-de9jrk04tophap3e5s95vbmoosgveotn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAurL8OoIMvL9sC6iYzh_i_Pkh7Ht-Q80s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400303379697-0bmcpaqdoikmgv3u374uks3a510jbc6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
